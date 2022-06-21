@@ -1,4 +1,4 @@
 data test;
   set sashelp.cars;
-  x=3;
+  x=4;
 run;
